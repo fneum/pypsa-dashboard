@@ -1,0 +1,15 @@
+name:
+  pypsa-dashboard
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python
+  - pip
+  - ipython
+  - pre-commit
+  - mamba
+  - yaml
+  - pypsa
+  - cartopy

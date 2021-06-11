@@ -1,0 +1,33 @@
+source,target,value
+electricity,central air heat pump,1
+electricity,central resistive heater,1
+H2,fuel cell,1
+solid biomass,biomass CHP,1
+CH4,central gas boiler,1
+CH4,gas CHP,1
+central air heat pump,district heating,1
+central resistive heater,district heating,1
+fuel cell,district heating,1
+biomass CHP,district heating,1
+central gas boiler,district heating,1
+gas CHP,district heating,1
+electricity distribution,air heat pump,1
+electricity distribution,resistive heater,1
+CH4 distribution,gas boiler,1
+electricity distribution,ground heat pump,1
+air heat pump,urban individual,1
+resistive heater,urban individual,1
+gas boiler,urban individual,1
+gas boiler,rural individual,1
+ground heat pump,rural individual,1
+central solar thermal,district heating,1
+solar thermal,urban individual,1
+solar thermal,rural individual,1
+urban individual,urban residential,1
+urban individual,urban service,1
+rural individual,rural residential,1
+rural individual,rural service,1
+solar energy,solar thermal,1
+solar energy,central solar thermal,1
+electricity,electricity distribution,1
+CH4,CH4 distribution,1
