@@ -4,7 +4,7 @@
 dconf
 results
 *.ipynb_checkpoints
-*.ipynb
+#*.ipynb
 summary
 *.nc
 *.log
