@@ -13,3 +13,16 @@ dependencies:
   - yaml
   - pypsa
   - cartopy
+  - networkx
+  - hvplot
+  - geoviews
+  - nodejs
+  - bokeh
+  - holoviews
+  - xarray
+  - pandas
+  - geopandas
+  - numpy
+  - panel
+  - jupyterlab
+  - atlite
