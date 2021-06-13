@@ -26,3 +26,5 @@ dependencies:
   - panel
   - jupyterlab
   - atlite
+  - pyepsg
+  - plotly
